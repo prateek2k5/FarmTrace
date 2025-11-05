@@ -123,12 +123,15 @@ http://localhost/farmer_log/
    
 
 
+---
 
 ### 🔐 Security & Data Flow
 ##### Session-based access control
 ##### Data integrity across all user roles
 ##### Each treatment record linked to a secure, unique QR code
 ##### Farmers, retailers, and admins each have isolated dashboards
+
+---
 
 ### 🎯 Future Enhancements
 ##### 📱 Camera-based QR scanning (using html5-qrcode)
@@ -137,11 +140,15 @@ http://localhost/farmer_log/
 ##### 📊 Analytics for drug usage trends
 ##### 📱 Mobile app integration (Flutter / React Native)
 
+---
+
 
 ### 👨‍💻 Developed By
 ##### Team:Say Mooooooo!
 ##### Institution: BBDITM Lucknow
 ##### Year: 2025
+
+---
 
 ### Team Members:
 ##### Pooja Bisht (Team Head)
@@ -149,10 +156,13 @@ http://localhost/farmer_log/
 ##### Priyanka Yadav (Testing & Documentation)
 ##### Tulika Srivastava (Frontend & UI Design)
 
+---
+
 ### 🧾 License
 ##### This project is open-source under the MIT License.
 ##### Feel free to use, modify, or distribute it for educational or research purposes.
 
+---
 
 ### ❤️ Thank You!
 #### If you like this project, don’t forget to ⭐ star the repo and contribute your ideas!
