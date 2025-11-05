@@ -125,45 +125,71 @@ Retailers and consumers can verify the safety of animal products before consumpt
 
 ---
 
-### 🔐 Security & Data Flow
-##### Session-based access control
-##### Data integrity across all user roles
-##### Each treatment record linked to a secure, unique QR code
-##### Farmers, retailers, and admins each have isolated dashboards
+## 🔐 Security & Data Flow
+
+- 🔒 **Session-based access control** — each role (Farmer, Retailer, Admin) has isolated access  
+- 🧩 **Data integrity maintained** across all roles and tables  
+- 🧾 **Each treatment record** is linked to a **unique QR code**  
+- 👥 **Role-based dashboards** for Farmer, Retailer, and Admin  
 
 ---
 
-### 🎯 Future Enhancements
-##### 📱 Camera-based QR scanning (using html5-qrcode)
-##### 📨 Email/SMS notification on safe-date arrival
-##### 🌐 Public consumer verification page
-##### 📊 Analytics for drug usage trends
-##### 📱 Mobile app integration (Flutter / React Native)
+## 🎯 Future Enhancements
+
+- 📱 **Camera-based QR scanning** (using `html5-qrcode`)  
+- 📨 **Email/SMS notifications** when withdrawal period ends  
+- 🌐 **Public consumer verification** portal for transparency  
+- 📊 **Analytics dashboard** for drug usage & safety tracking  
+- 💻 **Mobile App integration** using Flutter / React Native  
 
 ---
 
+## 👨‍💻 Developed By
 
-### 👨‍💻 Developed By
-###### Team:Say Mooooooo!
-###### Institution: BBDITM Lucknow
-###### Year: 2025
+**Team Name:** Say Mooooooo! 🐮  
+**Institution:** BBDITM Lucknow  
+**Year:** 2025  
 
----
-
-### Team Members:
-###### Pooja Bisht (Team Head)
-###### Prateek Verma (Backend & Database)
-###### Priyanka Yadav (Testing & Documentation)
-###### Tulika Srivastava (Frontend & UI Design)
-
----
-
-### 🧾 License
-##### This project is open-source under the MIT License.
-##### Feel free to use, modify, or distribute it for educational or research purposes.
+### 🧑‍🤝‍🧑 Team Members
+| Name | Role |
+|------|------|
+| 🧠 **Pooja Bisht** | Team Head |
+| 💾 **Prateek Verma** | Backend & Database |
+| 🧪 **Priyanka Yadav** | Testing & Documentation |
+| 🎨 **Tulika Srivastava** | Frontend & UI Design |
 
 ---
 
-### ❤️ Thank You!
-#### If you like this project, don’t forget to ⭐ star the repo and contribute your ideas!
-##### “Transparency in agriculture begins with digital traceability.”
+## 🧾 License
+
+This project is open-source under the **MIT License**.  
+Feel free to use, modify, or distribute it for **educational or research purposes**.
+
+---
+
+## 💬 Acknowledgements
+
+- [Bootstrap 5](https://getbootstrap.com/)  
+- [phpqrcode Library](http://phpqrcode.sourceforge.net/)  
+- [XAMPP](https://www.apachefriends.org/)  
+- [Smart India Hackathon Theme: Food Safety & Livestock Monitoring](https://www.sih.gov.in/)
+
+---
+
+## 🏁 Project Summary for Report
+
+> “A Smart Livestock Logging System that enables farmers to record animal treatments, automatically compute safe consumption periods, generate QR codes for traceability, and allow retailers and consumers to verify product safety based on government AMU and MRL guidelines.”
+
+---
+
+## 🧠 Keywords
+
+`PHP` `MySQL` `Bootstrap` `Smart Agriculture` `Livestock` `QR Code` `Traceability` `MRL` `AMU` `Farmer Portal` `Food Safety` `Regulation` `Transparency` `Web Application`
+
+---
+
+## ❤️ Thank You!
+
+If you like this project, don’t forget to ⭐ **star the repo** and share your ideas!  
+
+> “Transparency in agriculture begins with digital traceability.” 🌾
