@@ -99,7 +99,7 @@ Retailers and consumers can verify the safety of animal products before consumpt
 1. **Clone or Download the Repository**
    ```bash
    git clone https://github.com/yourusername/farmer_log.git
-2.Move Project Folder to XAMPP
+2. **Move Project Folder to XAMPP
 - C:\xampp\htdocs\farmer_log\
 
 3.Start Apache & MySQL from XAMPP Control Panel.
@@ -109,16 +109,16 @@ Retailers and consumers can verify the safety of animal products before consumpt
 - Create a database named: " farm_logger "
 
 5.Import SQL File
-Import the provided farm_logger.sql into your new database.
+- Import the provided farm_logger.sql into your new database.
 
 6.Run the Project
-Open in browser:
-http://localhost/farmer_log/
+- Open in browser:
+- http://localhost/farmer_log/
 
 7.Login Using Test Accounts
-👨‍🌾 Farmer → farmer1 / 123
-🛒 Retailer → retailer1 / 123
-🧑‍💼 Admin → admin / admin
+- 👨‍🌾 Farmer → farmer1 / 123
+- 🛒 Retailer → retailer1 / 123
+- 🧑‍💼 Admin → admin / admin
 
    
 
