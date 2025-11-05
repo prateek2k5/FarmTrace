@@ -120,12 +120,15 @@ http://localhost/farmer_log/
 🛒 Retailer → retailer1 / 123
 🧑‍💼 Admin → admin / admin
 
+   
 
-🔐 Security & Data Flow
-Session-based access control
-Data integrity across all user roles
-Each treatment record linked to a secure, unique QR code
-Farmers, retailers, and admins each have isolated dashboards
+
+
+##🔐 Security & Data Flow
+###Session-based access control
+###Data integrity across all user roles
+###Each treatment record linked to a secure, unique QR code
+###Farmers, retailers, and admins each have isolated dashboards
 
 🎯 Future Enhancements
 📱 Camera-based QR scanning (using html5-qrcode)
