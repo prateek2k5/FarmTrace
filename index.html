@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Livestock Logging System</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: linear-gradient(135deg, #e0f7fa, #e8f5e9);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      font-family: 'Poppins', sans-serif;
+    }
+    h1 {
+      color: #2e7d32;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+    .card {
+      border: none;
+      border-radius: 20px;
+      transition: all 0.3s ease;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      cursor: pointer;
+      background-color: white;
+    }
+    .card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    }
+    .icon {
+      font-size: 55px;
+      margin-bottom: 15px;
+    }
+    .farmer { color: #388e3c; }
+    .retailer { color: #1565c0; }
+    .admin { color: #d32f2f; }
+    .footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="text-center mb-4">
+    <h1>🐄 Smart Livestock Drug Logging System</h1>
+    <p class="text-secondary">Select your role to continue</p>
+  </div>
+
+  <div class="container">
+    <div class="row justify-content-center">
+      <!-- Farmer Card -->
+      <div class="col-md-3 mx-3">
+        <a href="login.php?role=farmer" style="text-decoration:none;">
+          <div class="card text-center p-4">
+            <div class="icon farmer">👨‍🌾</div>
+            <h4 class="text-success">Farmer</h4>
+            <p>Log treatments & generate QR codes</p>
+          </div>
+        </a>
+      </div>
+
+      <!-- Retailer Card -->
+      <div class="col-md-3 mx-3">
+        <a href="login.php?role=retailer" style="text-decoration:none;">
+          <div class="card text-center p-4">
+            <div class="icon retailer">🛒</div>
+            <h4 class="text-primary">Retailer</h4>
+            <p>Verify product safety via QR</p>
+          </div>
+        </a>
+      </div>
+
+      <!-- Admin Card -->
+      <div class="col-md-3 mx-3">
+        <a href="login.php?role=admin" style="text-decoration:none;">
+          <div class="card text-center p-4">
+            <div class="icon admin">🧑‍💼</div>
+            <h4 class="text-danger">Admin</h4>
+            <p>Manage drugs & withdrawal rules</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">© 2025 Smart Livestock Logger | Developed by Your Team</div>
+
+</body>
+</html>
