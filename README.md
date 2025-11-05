@@ -99,7 +99,7 @@ Retailers and consumers can verify the safety of animal products before consumpt
 1. **Clone or Download the Repository**
    ```bash
    git clone https://github.com/yourusername/farmer_log.git
-2. **Move Project Folder to XAMPP
+2. Move Project Folder to XAMPP
 - C:\xampp\htdocs\farmer_log\
 
 3.Start Apache & MySQL from XAMPP Control Panel.
@@ -144,17 +144,17 @@ Retailers and consumers can verify the safety of animal products before consumpt
 
 
 ### 👨‍💻 Developed By
-##### Team:Say Mooooooo!
-##### Institution: BBDITM Lucknow
-##### Year: 2025
+###### Team:Say Mooooooo!
+###### Institution: BBDITM Lucknow
+###### Year: 2025
 
 ---
 
 ### Team Members:
-##### Pooja Bisht (Team Head)
-##### Prateek Verma (Backend & Database)
-##### Priyanka Yadav (Testing & Documentation)
-##### Tulika Srivastava (Frontend & UI Design)
+###### Pooja Bisht (Team Head)
+###### Prateek Verma (Backend & Database)
+###### Priyanka Yadav (Testing & Documentation)
+###### Tulika Srivastava (Frontend & UI Design)
 
 ---
 
