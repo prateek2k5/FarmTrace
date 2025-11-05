@@ -100,7 +100,7 @@ Retailers and consumers can verify the safety of animal products before consumpt
    ```bash
    git clone https://github.com/yourusername/farmer_log.git
 2.Move Project Folder to XAMPP
-C:\xampp\htdocs\farmer_log\
+   C:\xampp\htdocs\farmer_log\
 
 3.Start Apache & MySQL from XAMPP Control Panel.
 
@@ -124,36 +124,36 @@ http://localhost/farmer_log/
 
 
 
-## 🔐 Security & Data Flow
-### Session-based access control
-### Data integrity across all user roles
-### Each treatment record linked to a secure, unique QR code
-### Farmers, retailers, and admins each have isolated dashboards
+### 🔐 Security & Data Flow
+##### Session-based access control
+##### Data integrity across all user roles
+##### Each treatment record linked to a secure, unique QR code
+##### Farmers, retailers, and admins each have isolated dashboards
 
-## 🎯 Future Enhancements
-### 📱 Camera-based QR scanning (using html5-qrcode)
-### 📨 Email/SMS notification on safe-date arrival
-### 🌐 Public consumer verification page
-### 📊 Analytics for drug usage trends
-### 📱 Mobile app integration (Flutter / React Native)
-
-
-## 👨‍💻 Developed By
-### Team:Say Mooooooo!
-### Institution: BBDITM Lucknow
-### Year: 2025
-
-## Team Members:
-### Pooja Bisht (Team Head)
-### Prateek Verma (Backend & Database)
-### Priyanka Yadav (Testing & Documentation)
-### Tulika Srivastava (Frontend & UI Design)
-
-## 🧾 License
-### This project is open-source under the MIT License.
-### Feel free to use, modify, or distribute it for educational or research purposes.
+### 🎯 Future Enhancements
+##### 📱 Camera-based QR scanning (using html5-qrcode)
+##### 📨 Email/SMS notification on safe-date arrival
+##### 🌐 Public consumer verification page
+##### 📊 Analytics for drug usage trends
+##### 📱 Mobile app integration (Flutter / React Native)
 
 
-## ❤️ Thank You!
-### If you like this project, don’t forget to ⭐ star the repo and contribute your ideas!
-#### “Transparency in agriculture begins with digital traceability.”
+### 👨‍💻 Developed By
+##### Team:Say Mooooooo!
+##### Institution: BBDITM Lucknow
+##### Year: 2025
+
+### Team Members:
+##### Pooja Bisht (Team Head)
+##### Prateek Verma (Backend & Database)
+##### Priyanka Yadav (Testing & Documentation)
+##### Tulika Srivastava (Frontend & UI Design)
+
+### 🧾 License
+##### This project is open-source under the MIT License.
+##### Feel free to use, modify, or distribute it for educational or research purposes.
+
+
+### ❤️ Thank You!
+#### If you like this project, don’t forget to ⭐ star the repo and contribute your ideas!
+##### “Transparency in agriculture begins with digital traceability.”
